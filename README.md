@@ -1,6 +1,6 @@
 # KarakuriSystem
 Integrantes del equipo:
-  Cordero Hernádez Pablo Cesar
+  <br>Cordero Hernádez Pablo Cesar<br/>
   García Márquez Jennifer Monserrat
   Hinojosa Maldonado Fernando
   Medina Rosales Jhonatan Jovanny
